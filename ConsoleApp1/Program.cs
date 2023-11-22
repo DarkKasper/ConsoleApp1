@@ -12,6 +12,17 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
 
+            Console.WriteLine("Привет МИР ")
+            Console.WriteLine("Привет МИР ");// я устал 
+            Console.WriteLine("Привет МИР ");
+            Console.WriteLine("Привет МИР ");
+            Console.WriteLine("Привет МИР ");
+
+
+
+
+
+
 
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
